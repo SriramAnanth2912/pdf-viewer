@@ -30,5 +30,5 @@ stability_CS.pdf
 *.pdf
 *.hintrc
 *.config.js
-*.cjs
+*.eslintrc.cjs
 
