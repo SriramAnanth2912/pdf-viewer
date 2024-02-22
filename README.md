@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 ## Further Implementation
 
-Need to access the html file from public/ directory using vite serve public and to resolve the error message: 6:42:35 PM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist? [vite].
+Need to access the html file from public/ directory using vite serve public and to resolve the error message: 6:42:35 PM [vite].
+Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist? [vite].
